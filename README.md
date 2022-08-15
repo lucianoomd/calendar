@@ -16,7 +16,7 @@
 * Change some visuals to have a better design;
 * Study and implement integration with Firebase.
 
-==================================================================================================================
+========================================================================================
 ## Instructions
 
 The goal of this exercise is to create a demo calendar application using React Native. Please don't use a `calendar` library, we would like to see your own calendar logic.
